@@ -21,6 +21,14 @@ nav {
   height: 47px;
   border-bottom: 1px solid darkCyan;
 }
+footer {
+  background-color: paleTurquoise;
+  width: 110%;
+  margin: -8px;
+  height: 47px;
+  border-top: 1px solid darkCyan;
+  border-bottom: 1px solid darkCyan;
+}
 .navlinks {
   text-decoration: none;
   color: darkCyan;
@@ -29,12 +37,28 @@ nav {
   padding-bottom: 3%;
   top: 12px;
 }
+#li1 {
+  text-decoration: none;
+  color: darkCyan;
+  margin-right: 5%;
+  position: relative;
+  top: 12px;
+  display: inline-grid;
+}
 #navbar2 {
   background-color: lightGreen;
   width: 110%;
   margin: -8px;
   height: 47px;
   border-bottom: 1px solid forestGreen;
+}
+#footer2 {
+  background-color: lightGreen;
+  width: 110%;
+  margin: -8px;
+  height: 47px;
+  border-bottom: 1px solid forestGreen;
+  border-top: 1px solid forestGreen;
 }
 .navlinks2 {
   text-decoration: none;
@@ -44,6 +68,15 @@ nav {
   padding-bottom: 3%;
   top: 12px;
 }
+#li2 {
+  text-decoration: none;
+  color: forestGreen;
+  margin-right: 5%;
+  position: relative;
+  top: 12px;
+  display: inline-grid;
+  margin-top: 0;
+}
 #navbar3 {
   background-color: plum;
   width: 110%;
@@ -51,12 +84,28 @@ nav {
   height: 47px;
   border-bottom: 1px solid darkOrchid;
 }
+#footer3 {
+  background-color: plum;
+  width: 110%;
+  margin: -8px;
+  height: 47px;
+  border-bottom: 1px solid darkOrchid;
+  border-top: 1px solid darkOrchid;
+}
 #navbar4 {
   background-color: tomato;
   width: 110%;
   margin: -8px;
   height: 47px;
   border-bottom: 1px solid maroon;
+}
+#footer4 {
+  background-color: tomato;
+  width: 110%;
+  margin: -8px;
+  height: 47px;
+  border-bottom: 1px solid maroon;
+  border-top: 1px solid maroon;
 }
 .navlinks3 {
   text-decoration: none;
@@ -66,6 +115,14 @@ nav {
   padding-bottom: 3%;
   top: 12px;
 }
+#li3 {
+  text-decoration: none;
+  color: darkOrchids;
+  margin-right: 5%;
+  position: relative;
+  top: 12px;
+  display: inline-grid;
+}
 .navlinks4 {
   text-decoration: none;
   color: maroon;
@@ -74,11 +131,18 @@ nav {
   padding-bottom: 3%;
   top: 12px;
 }
+#li4 {
+  text-decoration: none;
+  color: maroon;
+  margin-right: 20%;
+  position: relative;
+  top: 12px;
+  display: inline-grid;
+}
 #zero {
   margin-left: 24%;
 }
 #idCard {
-  position: absolute;
   top: 10%;
   width: 90%;
   margin: 5%;
@@ -87,16 +151,15 @@ nav {
   border-radius: 7px;
 }
 #idCardSkills {
-  position: absolute;
-  margin-top: 40%;
+  margin-top: 4%;
   margin-left: 5%;
+  margin-bottom: 5%;
   width: 90%;
   background-color: paleTurquoise;
   box-shadow: 6px 5px 10px 0px;
   border-radius: 7px;
 }
 #idCard2 {
-  position: absolute;
   top: 10%;
   width: 90%;
   margin: 5%;
@@ -105,7 +168,6 @@ nav {
   border-radius: 7px;
 }
 #idCard3 {
-  position: absolute;
   top: 10%;
   width: 90%;
   margin: 5%;
@@ -114,7 +176,6 @@ nav {
   border-radius: 7px;
 }
 #idCard4 {
-  position: absolute;
   top: 10%;
   width: 90%;
   margin: 5%;
