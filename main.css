@@ -1,0 +1,216 @@
+body {
+  font-family: 'Kanit', sans-serif;
+  background-color: lightCyan;
+}
+#python {
+  font-family: 'Kanit', sans-serif;
+  background-color: #CCFFCC;
+}
+#bc {
+  font-family: 'Kanit', sans-serif;
+  background-color: lavender;
+}
+#nycda {
+  font-family: 'Kanit', sans-serif;
+  background-color: peachPuff;
+}
+nav {
+  background-color: paleTurquoise;
+  width: 110%;
+  margin: -8px;
+  height: 47px;
+  border-bottom: 1px solid darkCyan;
+}
+.navlinks {
+  text-decoration: none;
+  color: darkCyan;
+  margin-right: 5%;
+  position: relative;
+  padding-bottom: 3%;
+  top: 12px;
+}
+#navbar2 {
+  background-color: lightGreen;
+  width: 110%;
+  margin: -8px;
+  height: 47px;
+  border-bottom: 1px solid forestGreen;
+}
+.navlinks2 {
+  text-decoration: none;
+  color: forestGreen;
+  margin-right: 5%;
+  position: relative;
+  padding-bottom: 3%;
+  top: 12px;
+}
+#navbar3 {
+  background-color: plum;
+  width: 110%;
+  margin: -8px;
+  height: 47px;
+  border-bottom: 1px solid darkOrchid;
+}
+#navbar4 {
+  background-color: tomato;
+  width: 110%;
+  margin: -8px;
+  height: 47px;
+  border-bottom: 1px solid maroon;
+}
+.navlinks3 {
+  text-decoration: none;
+  color: darkOrchids;
+  margin-right: 5%;
+  position: relative;
+  padding-bottom: 3%;
+  top: 12px;
+}
+.navlinks4 {
+  text-decoration: none;
+  color: maroon;
+  margin-right: 5%;
+  position: relative;
+  padding-bottom: 3%;
+  top: 12px;
+}
+#zero {
+  margin-left: 24%;
+}
+#idCard {
+  position: absolute;
+  top: 10%;
+  width: 90%;
+  margin: 5%;
+  background-color: paleTurquoise;
+  box-shadow: 6px 5px 10px 0px;
+  border-radius: 7px;
+}
+#idCardSkills {
+  position: absolute;
+  margin-top: 40%;
+  margin-left: 5%;
+  width: 90%;
+  background-color: paleTurquoise;
+  box-shadow: 6px 5px 10px 0px;
+  border-radius: 7px;
+}
+#idCard2 {
+  position: absolute;
+  top: 10%;
+  width: 90%;
+  margin: 5%;
+  background-color: lightGreen;
+  box-shadow: 6px 5px 10px 0px;
+  border-radius: 7px;
+}
+#idCard3 {
+  position: absolute;
+  top: 10%;
+  width: 90%;
+  margin: 5%;
+  background-color: plum;
+  box-shadow: 6px 5px 10px 0px;
+  border-radius: 7px;
+}
+#idCard4 {
+  position: absolute;
+  top: 10%;
+  width: 90%;
+  margin: 5%;
+  background-color: tomato;
+  box-shadow: 6px 5px 10px 0px;
+  border-radius: 7px;
+}
+.aboutMe {
+  display: grid;
+  grid-template-columns: 60% 20%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.aboutMeSkills {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  padding-top: 2%;
+  padding-bottom: 5%;
+  font-size: 20px;
+}
+#languages {
+  padding-left: 5%;
+  padding-top: 0px;
+}
+.info {
+  padding-left: 5%;
+}
+.info h1 {
+  margin-top: 0;
+}
+.picture {
+  padding-left: 20%;
+}
+.picturebc {
+  padding-left: 1%;
+}
+.picturenycda {
+  padding-left: 1%;
+}
+#mepic {
+  margin-top: 5%;
+  color: darkCyan;
+  width: 300px;
+  border-radius: 50%;
+  box-shadow: 20px 12px 0px 0px;
+  border: 3px solid paleTurquoise;
+}
+#pythonpic {
+  margin-top: 5%;
+  color: forestGreen;
+  width: 370px;
+  height: 400px;
+  border-radius: 2%;
+  box-shadow: 20px 12px 0px 0px;
+  border: 3px solid lightGreen;
+}
+#bcpic {
+  margin-top: 5%;
+  color: darkOrchid;
+  width: 420px;
+  height: 370px;
+  border-radius: 2%;
+  box-shadow: 20px 12px 0px 0px;
+  border: 3px solid plum;
+}
+#pokemonpic {
+  margin-top: 5%;
+  color: maroon;
+  width: 420px;
+  height: 330px;
+  border-radius: 2%;
+  box-shadow: 20px 12px 0px 0px;
+  border: 3px solid tomato;
+}
+#name {
+  font-size: 50px;
+}
+#namelang {
+  font-size: 50px;
+  margin-left: 2%;
+}
+p {
+  margin-bottom: -3%;
+}
+.labeledGrid1 {
+  display: grid;
+  grid-template: 30% 30% 30%/ 40% 40%;
+}
+.labeledGrid2 {
+  display: grid;
+  grid-template: 30% 30% 30%/ 50% 50%;
+}
+#words {
+  font-size: 15px;
+}
+#SoftSkills {
+  border-left: 1px solid black;
+  padding-left: 2%;
+}
