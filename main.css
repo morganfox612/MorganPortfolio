@@ -40,8 +40,7 @@ footer {
 #li1 {
   text-decoration: none;
   color: darkCyan;
-  margin-right: 5%;
-  position: relative;
+  margin-left: 11%;
   top: 12px;
   display: inline-grid;
 }
@@ -71,8 +70,7 @@ footer {
 #li2 {
   text-decoration: none;
   color: forestGreen;
-  margin-right: 5%;
-  position: relative;
+  margin-left: 11%;
   top: 12px;
   display: inline-grid;
   margin-top: 0;
@@ -118,8 +116,7 @@ footer {
 #li3 {
   text-decoration: none;
   color: darkOrchids;
-  margin-right: 5%;
-  position: relative;
+  margin-left: 11%;
   top: 12px;
   display: inline-grid;
 }
@@ -134,8 +131,7 @@ footer {
 #li4 {
   text-decoration: none;
   color: maroon;
-  margin-right: 20%;
-  position: relative;
+  margin-left: 11%;
   top: 12px;
   display: inline-grid;
 }
